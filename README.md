@@ -23,7 +23,7 @@ For installing and executing this project you need to have python >3.5 installed
 
 ### Installation
 ```sh
-~ pip install pip install git+https://github.com/beastea/adjust_test_task.git
+~ pip install git+https://github.com/beastea/adjust_test_task.git
 ```
 ### Execution
 ```sh
